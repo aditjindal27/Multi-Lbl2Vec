@@ -1,5 +1,7 @@
 # Multi-Lbl2Vec
 
+_Adit Jindal, Akshay Iyer, Preethi Narayan_
+
 A new approach for Topic Modeling and Analysis of Yelp Reviews using Predefined Topic List
 ======= 
 
